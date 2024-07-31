@@ -5,6 +5,7 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia e pela arte do de
 
 ## 🔧 Tecnologias e ferramentas 
 
+<div style:"inline_block"><br>
 <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="30"/> 
@@ -12,6 +13,7 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia e pela arte do de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40" height="30"/>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+</div>
 
 ## 📚 Estudando... 
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
