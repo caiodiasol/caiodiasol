@@ -1,5 +1,7 @@
-# Olá, meu nome é Caio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Olá, meu nome é Caio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia e pela arte do desenvolvimento, atualmente estou me dedicando ao curso "Desenvolvedor Full Stack Python" na EBAC, aprimorando a minha capacidade de criar soluções práticas e intuitivas para o usuário.
+
+- 💬 Contate-me no email: caiodiasol@proton.me
 
 ## 🔧 Tecnologias e ferramentas 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/>
