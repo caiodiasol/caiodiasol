@@ -3,7 +3,7 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia, Web3, Blockchain
 
 - 💬 Contate-me no email: caiodiasol@proton.me
 
-## 🔧 Tecnologias e ferramentas 
+### 🔧 Tecnologias e ferramentas 
 
 <div style:"inline_block"><br>
 <img alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -15,10 +15,10 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia, Web3, Blockchain
 <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
 </div>
 
-## 📚 Estudando... 
+### 📚 Estudando... 
 <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
 
-## Estatísticas do GitHub 
+### Estatísticas do GitHub 
 <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px />
 
 <div>
@@ -26,4 +26,3 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia, Web3, Blockchain
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodiasol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodiasol&langs_count=7&theme=tokyonight"/>
 </div>
-
