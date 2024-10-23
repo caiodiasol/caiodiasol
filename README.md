@@ -31,8 +31,7 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia, Web3, Blockchain
 </div>
 
 ### 📚 Estudando... 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original-wordmark.svg" height="70" width="70" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="70" width="70" />
 
 ### Estatísticas do GitHub 
 <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px />
