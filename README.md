@@ -20,6 +20,8 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia, Web3, Blockchain
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="70" width="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" height="70" width="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="70" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="70" width="70" />
+
 
 
 
@@ -35,7 +37,7 @@ Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia, Web3, Blockchain
 </div>
 
 ### 📚 Estudando... 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="70" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="70" width="70" />
 
 
 ### Estatísticas do GitHub 
