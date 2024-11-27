@@ -1,5 +1,5 @@
 # Olá, meu nome é Caio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
-Tenho 38 anos sou de Salvador-Bahia. Apaixonado por tecnologia, Web3, Blockchains e pela arte do desenvolvimento, atualmente venho me capacitando no curso "Desenvolvedor Full Stack Python" pela EBAC, em contínuo aprimoramento da minha capacidade de criar soluções práticas e intuitivas para o usuário.
+Soteropolitano apaixonado por tecnologia, Web3, Blockchains e pela arte do desenvolvimento, atualmente venho me capacitando no curso "Desenvolvedor Full Stack Python" pela EBAC, em contínuo aprimoramento da minha capacidade de criar soluções práticas e intuitivas para o usuário.
 
 - 💬 Contate-me no email: caiodiasol@proton.me
 
