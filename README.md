@@ -42,7 +42,7 @@ Soteropolitano apaixonado por tecnologia, Web3, Blockchains e pela arte do desen
 </div>
 
 ### 📚 Estudando... 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="70" width="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="70" width="70"/>
 
 
 ### Estatísticas do GitHub 
