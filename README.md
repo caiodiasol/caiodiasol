@@ -29,6 +29,7 @@ Natural de Salvador e atualmente morando em Florianópolis, apaixonado por tecno
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="70" width="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="70" width="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="70" width="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="70" width="70" />
 
 
 
@@ -44,8 +45,7 @@ Natural de Salvador e atualmente morando em Florianópolis, apaixonado por tecno
 </div>
 
 ### 📚 Estudando... 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="70" width="70"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="70" width="70" />
 
 ### 📊 Estatísticas do GitHub  
 <p>
