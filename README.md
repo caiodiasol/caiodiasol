@@ -1,5 +1,5 @@
-# Olá, meu nome é Caio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
-Natural de Salvador e atualmente morando em Florianópolis, apaixonado por tecnologia, Web3, desenvolvimento de software, automações e bots inteligentes. Atualmente me especializo como **Desenvolvedor Full Stack Python** pela EBAC, focado em construir aplicações modernas, escaláveis e centradas no usuário. Possuo experiência em automações de processos, integrações entre sistemas, análise de dados e desenvolvimento de aplicações web, aplicando boas práticas de engenharia de software para entregar soluções eficientes.
+# Olá, eu sou o Caio. Desenvolvedor Full Stack. 
+Natural de Salvador e atualmente morando em Florianópolis, apaixonado por tecnologia, Web3, desenvolvimento de software, automações e bots inteligentes. Atualmente especializado como **Desenvolvedor Full Stack Python** com foco em construir aplicações modernas, escaláveis e centradas no usuário. Possuo experiência em automações de processos, integrações entre sistemas, análise de dados e desenvolvimento de aplicações web, aplicando boas práticas de engenharia de software para entregar soluções eficientes.
 
 ## 💬 Contate-me no email: caiodiasol@proton.me
 
