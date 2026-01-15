@@ -46,10 +46,3 @@ Natural de Salvador e atualmente morando em Florianópolis, apaixonado por tecno
 
 ### 📚 Estudando... 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="70" width="70" />
-
-### 📊 Estatísticas do GitHub  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=caiodiasol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodiasol&layout=compact&langs_count=8&theme=tokyonight" height="200em" />
-</p>
-
